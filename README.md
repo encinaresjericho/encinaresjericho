@@ -4,7 +4,7 @@
 <!-- Introduction  -->
 I am an IT undergraduate with a passion for coding, technology, and solving real-world problems through software development.
 <br><br>🔭 I’m currently working on something cool
-<br>👯 I’m looking for someone collaborate on
+<br>👯 I’m looking for someone to collaborate on
 
 #### 🌱 Currently Learning:
 
