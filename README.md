@@ -6,17 +6,17 @@ I am an IT undergraduate with a passion for coding, technology, and solving real
 <br><br>🔭 I’m currently working on something cool
 <br>👯 I’m looking for someone collaborate on
 
-### 🌱 Currently Learning:
+#### 🌱 Currently Learning:
 
 - Advanced JavaScript and React.js
 - Backend development with Node.js and Express
 
-### 🎯 Goals:
+#### 🎯 Goals:
 
 - Contribute to open-source projects
 - Build full-stack web applications
 
-### 📫 How to reach me:
+#### 📫 Contact:
 
 - **Email:** [encinaresjericho24@gmail.com](mailto:encinaresjericho24@gmail.com)
 
