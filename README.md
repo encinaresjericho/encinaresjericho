@@ -1,6 +1,6 @@
 ### Hi there, I am Jericho 👋
 
-# 💫 About Me
+<h1 align="center">💫 About Me</h1>
 <!-- Introduction  -->
 I am an IT undergraduate with a passion for coding, technology, and solving real-world problems through software development.
 
