@@ -2,7 +2,7 @@
 
 # 💫 About Me</h1>
 <!-- Introduction  -->
-I am an IT undergraduate with a passion for coding, technology, and solving real-world problems through software development.
+I am a IT undergraduate at **Batangas State University, Lipa City** with a passion for coding, technology, and solving real-world problems through software development.
 
 ### What I'm Doing
 
