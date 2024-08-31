@@ -1,22 +1,22 @@
 ## Hi there, I am Jericho 👋
 
-# 💫 About Me:
+<h1 style="text-align: center;">💫 About Me:</h1>
 <!-- Introduction  -->
 I am an IT undergraduate with a passion for coding, technology, and solving real-world problems through software development.
-<br><br>🔭 I’m currently working on something cool
-<br>👯 I’m looking for someone to collaborate on
+<br><br> I’m currently working on something cool 🔭
+<br> I’m looking for someone to collaborate on 👯
 
-#### 🌱 Currently Learning:
+#### 🌱 Learning
 
 - Advanced JavaScript and React.js
 - Backend development with Node.js and Express
 
-#### 🎯 Goals:
+#### 🎯 Goals
 
 - Contribute to open-source projects
 - Build full-stack web applications
 
-#### 📫 Contact:
+#### 📫 Contact
 
 - **Email:** [encinaresjericho24@gmail.com](mailto:encinaresjericho24@gmail.com)
 
