@@ -1,9 +1,12 @@
-## Hi there, I am Jericho 👋
+### Hi there, I am Jericho 👋
 
-<h1 style="text-align: center;">💫 About Me:</h1>
+# 💫 About Me
 <!-- Introduction  -->
 I am an IT undergraduate with a passion for coding, technology, and solving real-world problems through software development.
-<br><br> I’m currently working on something cool 🔭
+
+### What I'm Doing
+
+I’m currently working on something cool 🔭
 <br> I’m looking for someone to collaborate on 👯
 
 #### 🌱 Learning
