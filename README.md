@@ -1,6 +1,6 @@
 ### Hi there, I am Jericho 👋
 
-<h1 align="center">💫 About Me</h1>
+# 💫 About Me</h1>
 <!-- Introduction  -->
 I am an IT undergraduate with a passion for coding, technology, and solving real-world problems through software development.
 
@@ -38,7 +38,6 @@ I’m currently working on something cool 🔭
 <!-- Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=encinaresjericho&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=encinaresjericho&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=encinaresjericho&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 <!-- Visitor -->
