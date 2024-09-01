@@ -1,21 +1,23 @@
 # 💫 About Me</h1>
 <!-- Introduction  -->
-I am a IT undergraduate at **Batangas State University, Lipa City** with a passion for coding, technology, and solving real-world problems through software development.
+I am a IT undergraduate at **Batangas State University** with a passion for coding, technology, and solving real-world problems through software development.
 
 ### What I'm Doing
 
-I’m currently working on something cool 🔭
-<br> I’m looking for someone to collaborate on 👯
+🔭 I’m currently working on something cool 
+<br> 👯 I’m looking for someone to collaborate on 
+<br> 🚀 Honing my coding skills through personal projects
+<br> 🌐 Staying updated with the latest trends in technology
 
 #### 🌱 Learning
 
-- Advanced JavaScript and React.js
+- Advanced JavaScript
 - Backend development with Node.js and Express
 
 #### 🎯 Goals
 
+- Build a personal portfolio website
 - Contribute to open-source projects
-- Build full-stack web applications
 
 #### 📫 Contact
 
@@ -23,6 +25,7 @@ I’m currently working on something cool 🔭
 
 # 💻 Tech Stack:
 <!-- List  -->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +33,10 @@ I’m currently working on something cool 🔭
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 # 📊 GitHub Stats:
 <!-- Stats -->
