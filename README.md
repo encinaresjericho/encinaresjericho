@@ -1,4 +1,5 @@
-# 💫 About Me</h1>
+# 💫 Hello, I am Jericho
+
 <!-- Introduction  -->
 I am a IT undergraduate at **Batangas State University** with a passion for coding, technology, and solving real-world problems through software development.
 
