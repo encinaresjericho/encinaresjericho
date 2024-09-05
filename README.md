@@ -17,6 +17,7 @@ I am a IT undergraduate at **Batangas State University** with a passion for codi
 
 #### 🎯 Goals
 
+- Build full-stack web applications
 - Contribute to open-source projects
 
 #### 📫 Contact
