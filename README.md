@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jericho-encinares)
 
-**IT Support | Help Desk | IT Infrastructure**
-
 I'm a **BS Information Technology graduate** with **500+ hours of hands-on IT support experience** across university offices and computer laboratories. My experience includes hardware and software troubleshooting, desktop deployment, network troubleshooting, preventive maintenance, and Windows/Active Directory administration.
 
 I'm now building toward a career in **IT Infrastructure and Network Support** through hands-on labs and projects focused on **Windows Server, Active Directory, networking, virtualization, and infrastructure troubleshooting**.
