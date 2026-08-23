@@ -1,47 +1,31 @@
-# 💫 Hello there!
+# Hello, I'm Jericho
 
-<!-- Introduction  -->
-I am a IT undergraduate at **Batangas State University** with a passion for coding, technology, and solving real-world problems through software development.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jericho-encinares)
 
-### What I'm Doing
+**Entry-Level IT Infrastructure | IT Support**
 
-🔭 I’m currently working on something cool 
-<br> 👯 I’m looking for someone to collaborate on 
-<br> 🚀 Honing my coding skills through personal projects
-<br> 🌐 Staying updated with the latest trends in technology
+I'm a **BS Information Technology graduate** with **500+ hours of hands-on IT support experience**. My background includes hardware and software troubleshooting, network connectivity support, computer deployment, preventive maintenance, and end-user assistance across university offices and computer laboratories.
 
-#### 🌱 Learning
+Currently, I'm building my foundation in **IT infrastructure, networking, Windows Server, Active Directory, and virtualization** through hands-on labs, troubleshooting exercises, and infrastructure projects.
 
-- Advanced JavaScript
-- Backend development with Node.js and Express
+## Objective
 
-#### 🎯 Goals
+This GitHub documents my transition into **IT Infrastructure and Network Support**.
 
-- Build full-stack web applications
-- Contribute to open-source projects
+My primary focus areas include:
 
-#### 📫 Contact
+**IT Infrastructure • Network Support • Windows Server • Active Directory • TCP/IP Networking • VLANs & Subnetting • DNS & DHCP • Network Troubleshooting • Hardware & Desktop Support • Hyper-V**
 
-- **Email:** [encinaresjericho24@gmail.com](mailto:encinaresjericho24@gmail.com)
+Here you'll find networking labs, Windows Server and Active Directory projects, Cisco Packet Tracer simulations, troubleshooting exercises, and technical documentation that showcase my development toward **IT Infrastructure, Systems Administration, and Network Support** roles.
 
-# 💻 Tech Stack:
-<!-- List  -->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Skills
 
-# 📊 GitHub Stats:
-<!-- Stats -->
-![](https://github-readme-stats.vercel.app/api?username=encinaresjericho&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=encinaresjericho&theme=catppuccin_mocha&hide_border=false)<br/>
-
----
-<!-- Visitor -->
-[![](https://visitcount.itsvg.in/api?id=encinaresjericho&icon=9&color=1)](https://visitcount.itsvg.in)
+| Skill | Associated Project |
+|---|---|
+| Windows Server / Active Directory | [Windows Server & Active Directory Lab](#) |
+| DNS & DHCP Configuration | [Windows Server & Active Directory Lab](#) |
+| Network Infrastructure | [Network Infrastructure & Troubleshooting Labs](#) |
+| VLANs & Inter-VLAN Routing | [Cisco Packet Tracer Labs](#) |
+| Network Troubleshooting | [Network Troubleshooting Labs](#) |
+| Hardware & Desktop Support | [IT Support Experience](#) |
+| Hyper-V / Virtualization | [Windows Server & Active Directory Lab](#) |
