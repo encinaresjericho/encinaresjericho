@@ -33,20 +33,25 @@ This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer
 
 <div>
   <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
-### Systems & Endpoint Administration
+### Systems & Administration
 
 <div>
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_11-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?&style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
 </div>
 
-### Collaboration & Version Control
+### Version Control & Development Tools
 
 <div>
+  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 </div>
