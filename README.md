@@ -2,17 +2,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jericho-encinares)
 
-I'm a **BS Information Technology graduate** with **500+ hours of hands-on IT support experience** across university offices and computer laboratories. My experience includes hardware and software troubleshooting, desktop deployment, network troubleshooting, preventive maintenance, and Windows/Active Directory administration.
+I'm a BS Information Technology graduate with 500+ hours of hands-on IT support experience** across university offices and computer laboratories. My experience includes hardware and software troubleshooting, desktop deployment, network troubleshooting, preventive maintenance, and Windows/Active Directory administration.
 
-I'm now building toward a career in **IT Infrastructure and Network Support** through hands-on labs and projects focused on **Windows Server, Active Directory, networking, virtualization, and infrastructure troubleshooting**.
+I'm now building toward a career in IT Infrastructure and Network Support through hands-on labs and projects focused on **Windows Server, Active Directory, networking, virtualization, and infrastructure troubleshooting.
 
 ## Objective
 
-I'm building a practical foundation in **IT Support, Networking, and IT Infrastructure**, with an emphasis on developing skills that can be applied in real-world technical environments.
+I'm building a practical foundation in IT Support, Networking, and IT Infrastructure, with an emphasis on developing skills that can be applied in real-world technical environments.
 
-My current areas of focus are **IT Support, Network Infrastructure, TCP/IP Networking, Routing & Switching, VLANs, DNS & DHCP, Windows Server, Active Directory, Hyper-V, Network Troubleshooting, and Hardware & Desktop Support**.
+My current areas of focus are IT Support, Network Infrastructure, TCP/IP Networking, Routing & Switching, VLANs, DNS & DHCP, Windows Server, Active Directory, Hyper-V, Network Troubleshooting, and Hardware & Desktop Support.
 
-This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer simulations, Windows Server and Active Directory environments, virtualization exercises, and troubleshooting work that document my growth from **entry-level IT Support toward IT Infrastructure, Systems Administration, and Network Support** roles.
+This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer simulations, Windows Server and Active Directory environments, virtualization exercises, and troubleshooting work that document my growth.
 
 ## Skills
 
