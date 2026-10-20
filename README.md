@@ -28,18 +28,34 @@ This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer
 
 <div>
   <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TCP/IP-00599C?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VLANs_&_Routing-1679A7?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-DNS_&_DHCP-4479A1?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-NAT-555555?&style=for-the-badge" />
 </div>
 
 ### Systems & Administration
 
 <div>
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Group_Policy-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_11-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?&style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SSH-222222?&style=for-the-badge&logo=OpenSSH&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-UFW_Firewall-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### IT Support & Operations
+
+<div>
+  <img src="https://img.shields.io/badge/-Hardware_Troubleshooting-555555?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Desktop_Support-0078D4?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OS_Installation-4479A1?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PC_Assembly-555555?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Preventive_Maintenance-2E8B57?&style=for-the-badge" />
 </div>
 
 ### Version Control & Development Tools
