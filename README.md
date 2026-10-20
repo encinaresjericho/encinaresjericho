@@ -14,18 +14,13 @@ My current areas of focus are IT Support, Network Infrastructure, TCP/IP Network
 
 This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer simulations, Windows Server and Active Directory environments, virtualization exercises, and troubleshooting work that document my growth.
 
-## Skills
+## Projects
 
-| Skill | Associated Project |
+| Project | Description |
 |---|---|
-| Windows Server / Active Directory | [Windows Server & Active Directory Lab](#) |
-| DNS & DHCP | [Windows Server & Active Directory Lab](#) |
-| Network Infrastructure | [Network Infrastructure & Troubleshooting](#) |
-| VLANs & Inter-VLAN Routing | [Cisco Packet Tracer Labs](#) |
-| Network Troubleshooting | [Network Troubleshooting Labs](#) |
-| IT Support & Help Desk | [Service Desk Simulation](#) |
-| Hardware & Desktop Support | [IT Support Experience](#) |
-| Hyper-V / Virtualization | [Windows Server & Active Directory Lab](#) |
+| [Windows & Active Directory Lab](link) | Configured a Windows domain environment with 3 virtual machines, Active Directory, 10 test users, 2 groups, 2 GPOs, DNS, and DHCP. |
+| [Network Infrastructure & Troubleshooting](link) | Designed a network with 3 VLANs, 2 switches, and 1 router. Configured inter VLAN routing and documented 4 simulated network faults. |
+| [Ubuntu Server Administration](link) | Configured an Ubuntu Server VM with 2 administrative users, SSH, package management, file permissions, system monitoring, and a basic UFW firewall. |
 
 ## Tools
 
