@@ -10,7 +10,7 @@ I'm now building toward a career in IT Infrastructure and Network Support throug
 
 I'm building a practical foundation in IT Support, Networking, and IT Infrastructure, with an emphasis on developing skills that can be applied in real-world technical environments.
 
-My current areas of focus are IT Support, Network Infrastructure, TCP/IP Networking, Routing & Switching, VLANs, DNS & DHCP, Windows Server, Active Directory, Hyper-V, Network Troubleshooting, and Hardware & Desktop Support.
+My current areas of focus are IT Support, Network Infrastructure, TCP/IP Networking, Routing & Switching, VLANs, DNS & DHCP, Windows Server, Active Directory, Network Troubleshooting, and Hardware & Desktop Support.
 
 This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer simulations, Windows Server and Active Directory environments, virtualization exercises, and troubleshooting work that document my growth.
 
@@ -35,7 +35,6 @@ This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer
   <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
