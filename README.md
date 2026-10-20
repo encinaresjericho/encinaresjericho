@@ -16,11 +16,11 @@ This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer
 
 ## Projects
 
-| Project | Description |
+| Project | Overview |
 |---|---|
-| [Windows & Active Directory Lab](link) | Configured a Windows domain environment with 3 virtual machines, Active Directory, 10 test users, 2 groups, 2 GPOs, DNS, and DHCP. |
-| [Network Infrastructure & Troubleshooting](link) | Designed a network with 3 VLANs, 2 switches, and 1 router. Configured inter VLAN routing and documented 4 simulated network faults. |
-| [Ubuntu Server Administration](link) | Configured an Ubuntu Server VM with 2 administrative users, SSH, package management, file permissions, system monitoring, and a basic UFW firewall. |
+| Windows & Active Directory Lab | [A hands-on systems administration lab focused on domain management, centralized user access, account policies, and Windows client integration.](link) |
+| Network Infrastructure & Troubleshooting | [An enterprise networking simulation exploring network segmentation, inter-VLAN communication, connectivity troubleshooting, and fault diagnosis.](link) |
+| Ubuntu Server Administration | [A Linux server lab covering command-line administration, secure remote access, user permissions, service monitoring, and basic system security.](link) |
 
 ## Tools
 
