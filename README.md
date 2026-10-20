@@ -19,7 +19,7 @@ This GitHub contains hands-on labs, infrastructure projects, Cisco Packet Tracer
 | Project | Overview |
 |---|---|
 | Windows & Active Directory Lab | [A hands-on systems administration lab focused on domain management, centralized user access, account policies, and Windows client integration.](https://github.com/encinaresjericho/windows-active-directory-lab) |
-| Network Infrastructure & Troubleshooting | [An enterprise networking simulation exploring network segmentation, inter-VLAN communication, connectivity troubleshooting, and fault diagnosis.](https://github.com/encinaresjericho/network-infrastructure-troubleshooting) |
+| Network Infrastructure & Troubleshooting | [An enterprise networking simulation exploring network segmentation, inter-VLAN communication, connectivity troubleshooting, and fault diagnosis.](https://github.com/encinaresjericho/network-infrastructure-lab) |
 | Ubuntu Server Administration | [A Linux server lab covering command-line administration, secure remote access, user permissions, service monitoring, and basic system security.](https://github.com/encinaresjericho/ubuntu-server-administration) |
 
 ## Tools
